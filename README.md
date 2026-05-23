@@ -14,5 +14,5 @@
 
 Запуск:
 - pip install -r requirements.txt
-- создать config.py с токеном
+- создать config.py с токеном (TOKEN = "")
 - python main.py
